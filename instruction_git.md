@@ -82,4 +82,4 @@
 
 [Полная инструкция Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
-Здесь будет картинка!
+![Спасибо](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvP3LOnN5psvFmeHd5lAHFpCTPJUY010r7qg&usqp=CAU)
