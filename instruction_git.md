@@ -82,4 +82,6 @@
 
 [Полная инструкция Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
+![смайл](https://images.wbstatic.net/big/new/6400000/6404646-1.jpg)
+
 ![Спасибо](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvP3LOnN5psvFmeHd5lAHFpCTPJUY010r7qg&usqp=CAU)
