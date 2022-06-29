@@ -81,3 +81,5 @@
 *text* | **text** | ## Text | [текст ссылки](ссылка) | ![текст ссылки](ссылка)
 
 [Полная инструкция Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+Здесь будет картинка!
